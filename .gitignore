@@ -1,0 +1,5 @@
+#lock
+*.lock
+
+#modules
+node_modules
